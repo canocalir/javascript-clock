@@ -6,7 +6,8 @@
 
 ## [Click here for live demo](https://fascinating-dieffenbachia-754712.netlify.app/)
 
-![vanilla-clock](https://user-images.githubusercontent.com/11324886/197590935-0cc0c3be-34ca-42d8-a373-235313b4640c.gif)
+![jsclock](https://user-images.githubusercontent.com/11324886/197597536-92244b1e-338f-442f-b999-5801d260763b.gif)
+
 
 ## License
 
